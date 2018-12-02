@@ -1,0 +1,183 @@
+<resources>
+<string name="app_name">MSCCS-HKU-Assignment2</string>
+<string-array name="program_overview">
+
+   <item>Program Overview</item>
+   <item>Stream Of Study</item>
+   <item>Pattern of Study and Enrolment Mode</item>
+
+</string-array>
+
+<string name="progam_content">The MSc(CompSc) programme is a comprehensive postgraduate study programme provides advanced and in-depth learning in Computer Science.  The programme is credit unit based, with courses of both applied and fundamental nature.\n\nStudents can choose focussed streams of study or a comprehensive and diversified study in Computer Science, i.e. the General Stream.\n\nFocussed streams of study represent a cohesive collection of related courses that provides both fundamental and in-depth exposure to students in a given ICT domain.  Students can extend and deepen their knowledge in the specialization streams in Cyber Security, Multimedia Computing and Financial Computing. </string>
+
+<string name="stream_of_study_content">
+   Cyber Security \n\n
+   The Cyber Security Stream is a multidisciplinary area of study and professional activity concerned with state-of-the-art technology in cyber security. The curriculum covers different aspects of cyber security from different perspectives, including technical, organisational, human-oriented and legal.\n\n
+   Financial Computing \n\n
+   The Financial Computing Stream is the study of data and algorithms used in finance and the mathematics of computer programs that realise financial models or systems.\n
+   Financial Computing emphasises practical numerical methods and focuses on techniques that are directly applicable to business and financial analysis.\n
+   The emphasis will be in the computing aspect of the financial industry.\n\n
+   Multimedia Computing \n\n
+   The Multimedia Computing Stream focuses on multimedia computing, communications, analytics, visualisation and applications.\n
+   Multimedia Computing encompasses media coding and processing, streaming-media middleware, media representations, real-time protocols, media analysis, and human-interaction and visualisation techniques.\n
+   Students are encouraged to develop innovative ideas using the latest development in technology such as mobile devices and big-data analytics.\n\n
+   General Stream \n\n
+   The General Stream covers a broad, comprehensive range of Computer Science subjects, including a wide range of courses from which students can choose from. It offers students the most flexibility to design their own study portfolio based on their career aspiration or requirements.
+</string>
+
+<string name="study_content">
+   Pattern of Study \n\n
+   Students are required to complete 72 credits of courses selected from the syllabus which must include capstone experience.\n\n\n
+   Enrolment Mode\n\n
+   Students can study in one of the following enrolment modes:\n
+(a)Courses (60 credits)^ + Project (12 credits)\n
+     i.e. 10 Courses + Project\n
+OR\n
+(b)Courses (48 credits)^ + Dissertation (24 credits)\n
+     i.e. 8 Courses + Dissertation\n
+^ Each course normally carries 6 credits\n\n\n
+   Selection of Courses \n\n
+Students shall select courses in accordance with the regulations of the degree. To qualify as a graduate of Cyber Security, Financial Computing, or Multimedia Computing Stream, students must pass at least 4 stream specific courses (at least 24 credits in total) in the corresponding subject group, and undertake a dissertation or a project in the area of the corresponding stream. For General Stream, students can choose any discipline courses from any subject group, and undertake a dissertation or a project in any area in computer science\n
+
+Students may select no more than 2 courses (at most 12 credits in total) offered by the MSc(ECom_IComp) and MSc(Eng) curricula in the Faculty of Engineering as electives.\n
+
+</string>
+
+<string name="courses_content">The following is a list of courses offered for the MSc(CompSc) curriculum by the Department of Computer Science.\n\nThe courses, both in terms of range and syllabus, are updated and revised continuously by the Programme Committee and the Department.\n\nAny revision requires University’s approval.\n\nThe list of courses is also subject to change because occasionally we may decide not to offer a particular course in one year or to add some new ones, based on the findings of the annual curriculum review.\n</string>
+   <string-array name="course_selection">
+
+   <item>Cyber Security</item>
+   <item>Financial Computing</item>
+   <item>Multimedia Computing</item>
+   <item>Other Courses</item>
+   <item>Capstone Experience</item>
+
+</string-array>
+
+   <string name="cyber_security">
+COMP7806 : Topic in information security\n
+COMP7901: Legal protection of digital property #\n
+COMP7903 : Digital investigation and forensics\n
+COMP7904: Information security: attacks and defense\n
+COMP7905: Reverse engineering and malware analysis\n
+COMP7906: Introduction to cyber security #\n\n
+^ Students with focussed streams of study have to take at least 24 credits courses (equivalent to four 6-credit courses) in the corresponding subject group.\n
+# Subject to University approval
+
+</string>
+
+   <string name="financial_computing">
+COMP7103:Data mining\n
+COMP7405:Techniques in computational finance\n
+COMP7406:Software development for quantitative finance\n
+COMP7407:Securities transaction banking\n
+COMP7408:Distributed ledger and blockchain technology #\n
+COMP7802:Introduction to financial computing\n
+COMP7808:Topic in financial computing\n
+COMP7906:Introduction to cyber security #\n\n
+^ Students with focussed streams of study have to take at least 24 credits courses (equivalent to four 6-credit courses) in the corresponding subject group.\n
+# Subject to University approval
+   </string>
+
+   <string name="multimedia_computing">
+COMP7502:Image processing and computer vision\n
+COMP7503:Multimedia technologies\n
+COMP7504:Pattern recognition and applications\n
+COMP7505:User interface design and development\n
+COMP7506:Smart phone apps development #\n
+COMP7507:Visualization and visual analytics\n
+COMP7604:Game design and development\n
+COMP7807:Topic in multimedia computing\n\n
+^ Students with focussed streams of study have to take at least 24 credits courses (equivalent to four 6-credit courses) in the corresponding subject group.\n
+# Subject to University approval
+</string>
+
+   <string name="other_courses">
+COMP7104:Advanced database systems #\n
+COMP7201:Analysis and design of enterprise applications in UML\n
+COMP7203:Modern software design\n
+COMP7205:Enterprise architecture\n
+COMP7303:High-performance computing\n
+COMP7304:The wireless Internet and mobile network\n
+COMP7305:Cluster and cloud computing\n
+COMP7306:Web technologies\n
+COMP7307:Advanced real-time embedded systems and applications\n
+COMP7403:Computational molecular biology\n
+COMP7404:Computational intelligence and machine learning\n
+COMP7606:Deep learning #\n
+COMP7801:Topic in computer science\n
+COMP7805:Topic in computer network and systems\n\n
+^ Students with focussed streams of study have to take at least 24 credits courses (equivalent to four 6-credit courses) in the corresponding subject group.\n
+# Subject to University approval
+   </string>
+
+   <string name="capstone_experience">
+COMP7704:Dissertation (24 credits)\n
+COMP7705:Project (12 credits)\n\n
+^ Students with focussed streams of study have to take at least 24 credits courses (equivalent to four 6-credit courses) in the corresponding subject group.\n
+# Subject to University approval
+   </string>
+
+
+   <string name="classs_schedule_content">
+Duration of Study \n\n
+The MSc(CompSc) programme is offered in both full-time and part-time modes.\n\n
+There are 3 semesters in an academic year,\n
+i.e. semester 1: September – December,\n
+i.e. semester 2: January – May and\n
+i.e. the summer semester: June – August.\n\n
+Part-time: 2-3 years\n
+Full-time: 1-2 years\n\n\n
+
+Class Schedule\n\n
+Classes are usually conducted in weekday evenings from 7:00 p.m., or during weekends.\n  Some courses will be offered mainly for full-time students in weekday daytime.
+   </string>
+
+<string name="composition_fee_content">
+The composition fee for each 6-credit course is HK$13,000^. Project has a composition fee of HK$26,000 and the Dissertation has a composition fee of HK$52,000. \nTotal composition fee for the two study modes are therefore as follows:
+10 courses + Project:
+\n(HK$13,000 x 10) + (HK$26,000) = HK$156,000
+\n\n8 Courses + Dissertation:\n
+(HK$13,000 x 8) + (HK$52,000) = HK$156,000
+\n\nStudents who select to study a course from the MSc(ECom_IComp) and MSc(Eng) programmes have to pay HK$13,000^ and HK$12,000^ respectively per 6-credit course.\n\n
+^ Subject to University approval
+\n\nFees for enrolled courses are paid on semester basis.  The first instalment of composition fees of 12 credit-units is payable at the time of acceptance of an offer of admission.
+\nGenerally composition fees for cancelled enrolment before specified deadline are not refunded, but can be used to pay for another enrolled course or carried over to the next semester as credit.\n(Subject to the approval by the University)
+
+</string>
+
+<string name="online_application_content">
+The following supporting documents should be uploaded to the online application system before the application deadline or expiry of your application account (which is valid for four weeks only), whichever is earlier:
+\n• Graduate transcript(s) with grading system of all tertiary level studies
+\n• Degree certificate(s)
+\n• English Language proficiency test score report, such as TOEFL or IELTS (only for applicants with qualifications from institutions outside Hong Kong where the language of instruction and/or examination is not English)
+\n• Proof of Cumulative Grade Point Average (CGPA) / average grade / average mark
+\n• Official proof of class ranking, if available
+\n• A curriculum vitae (C.V.)
+\n\nApplicants are not required to submit original documents during the application stage.  Should an applicant be given an admission offer by the Programme, he/she will receive notification of the need to submit original/certified true copy* of the documents to the MSc(CompSc) Programme Office.
+\nPlease note that documents once submitted will not be returned, and will be destroyed if the application is unsuccessful.
+\n\n\n*The University will only ACCEPT originals and copies of the documents that have been duly declared as true copies before a notary public.
+</string>
+
+<string name="application_link">
+<a href="https://aal.hku.hk/tpg/programme/master-science-computer-science">Please Click Here To Apply.</a>
+</string>
+
+<string name="info_session_content">
+Join us at the information sessions, and find out if the Master of Science in Computer Science Programme is the right fit for your career goals.
+\n\nInformation Sessions include a programme overview and session for Question and Answer, plus the opportunity to talk informally with Programme Director and staff. Potential applicants are welcome.
+\n\nInformation sessions will be organized in Hong Kong and Mainland China.
+\n\nDetails of these information sessions will be announced on our website and/or advertised online and in major local newspapers.
+</string>
+
+<string name="info_link">
+<a href="https://www.msc-cs.hku.hk/Admission/Info-session">Please Click Here To Know More.</a>
+</string>
+
+   <string name="online_registration">Online Registration</string>
+   <string name="information_session">Information Session</string>
+   <string name="courses">Courses</string>
+   <string name="composition_fee">Composition Fee</string>
+   <string name="class_schedule">Class Schedule</string>
+   <string name="program_overview">Program Overview</string>
+</resources>
