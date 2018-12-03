@@ -26,4 +26,4 @@ If you have any question about the course, please come to the information sessio
 For more information and latest news, please visit the website: http://www.msc-cs.hku.hk
 
 
-Notice
+
