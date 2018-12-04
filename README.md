@@ -18,6 +18,13 @@ Additional
 
 Most of the pictures and information are provided from the Master of Computer Science in HKU. Thank you for providing such pictures and information. 
 
+Contribution of members
+
+Yeung Fu Ngai (UID: 3035562174) - design app, write the programme code and video presentation
+
+San Hong Chun (UID: 3035455486) - design app, write the programme code and write the programme code (major)
+
+Kwok Man Fung (UID: 3035546998) - design app, write the programme code and prepare pictures, readme and contribution
 
 
 
